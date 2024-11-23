@@ -37,3 +37,5 @@ PDF Whisperer is a Streamlit-based chatbot that allows you to interact with your
    streamlit run app.py
    ```
 6. Open the provided URL in your browser!
+
+_App is deployed here: https://geminipdfbot-wujytut7zbbakajjqsxj95.streamlit.app/_
